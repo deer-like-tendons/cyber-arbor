@@ -1,7 +1,8 @@
 ---
 publish: "true"
 ---
-# Cyber-Arbor
+# Digital Garden
 
-Welcome to my publicly available personal notes; A concept sometimes referred to as a **Digital Garden**, or as I like to call it my **Cyber Arbor** 
-![[kinh-trai-push-eyeglasses.gif]]
+Welcome to my publicly available personal notes; A concept sometimes referred to as a **Digital Garden**
+
+![[kinh-trai-push-eyeglasses.gif|197]]
