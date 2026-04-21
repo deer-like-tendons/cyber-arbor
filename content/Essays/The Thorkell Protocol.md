@@ -1,7 +1,7 @@
 ---
 publish: "true"
 ---
-<H5 class="H5">Dissecting Thorkel's aura and developing a plan to emulate said aura</H4>
+<H5 class="H5">Dissecting Thorkel's aura and cooking up a plan to emulate said aura</H4>
 
 
 > [!Assumed Audience]
@@ -35,7 +35,7 @@ In approximate order of importance:
 2. **Rife with Desires** - I don't think it's impactful enough to keep a description of my desired life stowed away in a dusty coffer; only entering my psyche during my annual reviews and revisions. I need a system to bring forth my desires to my daily life, so that they lose any vagueness or nebulosity. **Thrice weekly, I'll jot down three prevailing desires since the previous entry.** In order for this to not become an **inverted-gratitude practice** (depression speedrun WR attempt?? 😱), I will also jot three prevailing gratitudes to offset my yearnings to achieve gratitude-neutrality.  
 
 #### Sensitivity to Opportunities
-Had Thorkell not clocked the parallel between Canute and Thors demeanor, he'd not have seen any good reason to act how he did. Identifying situations that offer long levers to impart meaningful course adjustments to my life could be considered the foremost prerequisite to performing the Thorkell-gambit. However, I believe my [[Thorkell the Decisive#Knowing What I Want|plan to ruminate on my desires described in the previous section]] will yield the sensitivity I'm after. After all, a hungry person does not need to develop a plan to ensure they don't accidentally ignore the wafting scent of a bakery.
+Had Thorkell not clocked the parallel between Canute and Thors demeanor, he'd not have seen any good reason to act how he did. Identifying situations that offer long levers to impart meaningful course adjustments to my life could be considered the foremost prerequisite to performing the Thorkell-gambit. However, I believe my [[The Thorkell Protocol#Knowing What I Want|plan to ruminate on my desires described in the previous section]] will yield the sensitivity I'm after. After all, a hungry person does not need to develop a plan to ensure they don't accidentally ignore the wafting scent of a bakery.
 
 #### Sufficiency over Certainty. 
 As I mentioned in the 'Personal Track Record' section of [[#Why I'm Not Hype]], I tend to optimize for avoiding making decisions that lead to mistakes while simultaneously locking-in default, but suboptimal outcomes. If I want to capitalize on rare opportunities as they arise, I need to be able to act based on **sufficient** evidence, without demanding the fairytale of "certainty" be present.
