@@ -1,13 +1,15 @@
 ---
 publish: "true"
 ---
-> Dissecting Thorkel's aura and developing a plan to emulate said aura
+<H5 class="H5">Dissecting Thorkel's aura and developing a plan to emulate said aura</H4>
+
 
 > [!Assumed Audience]
 > People who are either familiar with the plot of Vinland Saga through Season 1 (Ch 42), or are willing to watch a <2 minute [anime clip](https://youtu.be/4PqQAqrVvdo?t=268) to gain just enough context to appreciate my ramblings on the topic.
 > 
 
 Thorkell regretted not following his defecting friend Thors who had discovered what it means to be a true warrior. In his later encounter with Prince Canute, he sensed a commonality between Canute and Thors; He didn't want to make the same regrettable decision twice. In an instant, he decided he would change course and serve Canute from that day forward in hopes that he might learn from Canute what he had not from Thors.
+
 ![[Pasted image 20260421160355.png|400]]
 
 ## Why this Hype:
@@ -29,8 +31,8 @@ The following is my personalized Thorkellmaxxing Protocol.
 In approximate order of importance:
 #### Knowing What I Want
  I believe what allowed Thorkell to make such a split second decision, is that he had already spent years obsessing over the unanswered question of what it means to be a true warrior. The interaction with Canute was the culmination of years of longing for such an opportunity. If I'm going to have my own epic Thorkell moment, I too will need to dwell on the desires of my life.
-	1. **Concrete Desires** - I need to explicitly define what I want in my life. If an archer does not select a target, there is a 100% chance their arrow will not hit their target. This is because objects only become targets when they are selected as such. Similarly, outcomes only become goals when we define them. **I will continue to maintain an accurate and inspiring [description of my desired life](obsidian://open?vault=Obsidian&file=Public%2FCal%20Newport%20-%20Type%20Shi%2FDesired%20Life%20Descriptions%2F2026%20-%20Desired%20Life%20Description)**
-	2. **Rife with Desires** - I don't think it's impactful enough to keep a description of my desired life stowed away in a dusty coffer; only entering my psyche during my annual reviews and revisions. I need a system to bring forth my desires to my daily life, so that they lose any vagueness or nebulosity. **Thrice weekly, I'll jot down three prevailing desires since the previous entry.** In order for this to not become an **inverted-gratitude practice** (depression speedrun WR attempt?? 😱), I will also jot three prevailing gratitudes to offset my yearnings to achieve gratitude-neutrality.  
+1. **Concrete Desires** - I need to explicitly define what I want in my life. If an archer does not select a target, there is a 100% chance their arrow will not hit their target. This is because objects only become targets when they are selected as such. Similarly, outcomes only become goals when we define them. **I will continue to maintain an accurate and inspiring [description of my desired life](obsidian://open?vault=Obsidian&file=Public%2FCal%20Newport%20-%20Type%20Shi%2FDesired%20Life%20Descriptions%2F2026%20-%20Desired%20Life%20Description)**
+2. **Rife with Desires** - I don't think it's impactful enough to keep a description of my desired life stowed away in a dusty coffer; only entering my psyche during my annual reviews and revisions. I need a system to bring forth my desires to my daily life, so that they lose any vagueness or nebulosity. **Thrice weekly, I'll jot down three prevailing desires since the previous entry.** In order for this to not become an **inverted-gratitude practice** (depression speedrun WR attempt?? 😱), I will also jot three prevailing gratitudes to offset my yearnings to achieve gratitude-neutrality.  
 
 #### Sensitivity to Opportunities
 Had Thorkell not clocked the parallel between Canute and Thors demeanor, he'd not have seen any good reason to act how he did. Identifying situations that offer long levers to impart meaningful course adjustments to my life could be considered the foremost prerequisite to performing the Thorkell-gambit. However, I believe my [[Thorkell the Decisive#Knowing What I Want|plan to ruminate on my desires described in the previous section]] will yield the sensitivity I'm after. After all, a hungry person does not need to develop a plan to ensure they don't accidentally ignore the wafting scent of a bakery.
@@ -46,8 +48,9 @@ The problem is that I've trained myself, through years of repetition, to treat "
 Feeling my emotions is something I'm striving to do more of in general, but I call it out here because I think it's particularly relevant. My go-to strategy to avoid feeling fear is distraction. This typically manifests as an attention deficit (frequently switching away from the task that's causing fear) but it also shows up as general avoidance, in which I do something else entirely.
 
 To make big decisions that get me closer to my desired life, I need to be able to feel my fear, for there will be fear. If there is not fear, I am either not making a particularly impactful decision, or I am in some way deluded.
-	1. ***Premeditatio Malorum*** - When met with a difficult choice, I will preemptively mourn the outcomes of which I'm most afraid. Familiarizing myself with an imaginative but concrete outcome feels much more productive than letting fear of vaguely bad outcomes influence my actions.
-	2. **Outward Expression** - Joe Hudson correctly asserts that virtually all of the suffering associated with "bad" emotions actually comes from our attempts to *not* feel them. Going forward, when I identify the presence of fear, I'll strive not to avoid it, but to bathe in it; To rinse, lather, and repeat in it, if you will. I may feel terror, but my psyche will be squeaky-clean, and I believe this will lead to improved decision making outcomes
+
+1. ***Premeditatio Malorum*** - When met with a difficult choice, I will preemptively mourn the outcomes of which I'm most afraid. Familiarizing myself with an imaginative but concrete outcome feels much more productive than letting fear of vaguely bad outcomes influence my actions.
+2. **Outward Expression** - Joe Hudson correctly asserts that virtually all of the suffering associated with "bad" emotions actually comes from our attempts to *not* feel them. Going forward, when I identify the presence of fear, I'll strive not to avoid it, but to bathe in it; To rinse, lather, and repeat in it, if you will. I may feel terror, but my psyche will be squeaky-clean, and I believe this will lead to improved decision making outcomes
 
 ## What do I want from all this?
 
