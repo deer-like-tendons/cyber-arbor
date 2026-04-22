@@ -17,7 +17,7 @@ Thorkell regretted not following his defecting friend Thors who had discovered w
 
 ![[Pasted image 20260421160355.png|400]]
 
-## Why this Hype:
+## Why this is Hype:
 This level of decisiveness is **absurd**, in a cool way. He decided to put himself and his men at great risk simply because he had a sense he would regret it if he didn't. He's signaling that he values living a life without regrets more than he values living, or anything else for that matter. On top of that, he's displaying immense confidence in his intuition and his understanding of himself.
 
 ## Why I'm Not Hype:
