@@ -1,5 +1,8 @@
 ---
 publish: "true"
+aliases:
+  - Thorkell the Decisive
+  - The Thorkell Protocol
 ---
 <H5 class="H5">Dissecting Thorkel's aura and cooking up a plan to emulate said aura</H4>
 
@@ -8,7 +11,7 @@ publish: "true"
 > People who are either familiar with the plot of Vinland Saga through Season 1 (Ch 42), or are willing to watch a <2 minute [anime clip](https://youtu.be/4PqQAqrVvdo?t=267) to gain just enough context to appreciate my ramblings on the topic.
 > 
 
-![[Pasted image 20260422134929.png]]
+![[Pasted image 20260422134929.png|600]]
 
 Thorkell regretted not following his defecting friend Thors who had discovered what it means to be a true warrior. In his later encounter with Prince Canute, he sensed a commonality between Canute and Thors; He didn't want to make the same regrettable decision twice. In an instant, he decided he would change course and serve Canute from that day forward in hopes that he might learn from Canute what he had not from Thors.
 
