@@ -4,7 +4,7 @@ publish: "true"
 <H5 class="H5">Dissecting Thorkel's aura and cooking up a plan to emulate said aura</H4>
 
 
-> [!Assumed Audience]
+> [!info] Assumed Audience
 > People who are either familiar with the plot of Vinland Saga through Season 1 (Ch 42), or are willing to watch a <2 minute [anime clip](https://youtu.be/4PqQAqrVvdo?t=267) to gain just enough context to appreciate my ramblings on the topic.
 > 
 
